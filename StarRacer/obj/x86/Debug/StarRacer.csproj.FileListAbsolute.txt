@@ -1,0 +1,42 @@
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background3.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background4.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\starship.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_big1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_big2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_med1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_med2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_small1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_small2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\finishline.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\game_overlay.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Images\starship2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\Content\Miramo.xnb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\StarRacer.exe
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\bin\x86\Debug\StarRacer.pdb
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\obj\x86\Debug\StarRacer.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\obj\x86\Debug\StarRacer.exe
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\obj\x86\Debug\StarRacer.pdb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background1.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background2.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background3.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\stars_background4.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\starship.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_big1.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_big2.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_med1.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_med2.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_small1.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\asteroid_small2.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\finishline.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\game_overlay.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Images\starship2.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\Content\Miramo.xnb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\StarRacer.exe
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\bin\x86\Debug\StarRacer.pdb
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\obj\x86\Debug\StarRacer.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\obj\x86\Debug\StarRacer.exe
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\obj\x86\Debug\StarRacer.pdb

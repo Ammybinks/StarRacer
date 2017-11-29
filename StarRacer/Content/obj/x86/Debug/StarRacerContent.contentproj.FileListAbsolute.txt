@@ -1,0 +1,2 @@
+C:\TeenCoder\Game Programming\Activity Starters\StarRacer\StarRacer\Content\obj\x86\Debug\StarRacerContent.contentprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\StarRacer\StarRacer\Content\obj\x86\Debug\StarRacerContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarRacer", "StarRacer\StarRacer.csproj", "{668D00DC-159D-4384-8C33-6F34B610C30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarRacerContent", "StarRacer\Content\StarRacerContent.contentproj", "{3B5CFDD3-0F37-4810-9CC1-CB6092604906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668D00DC-159D-4384-8C33-6F34B610C30A}.Debug|x86.ActiveCfg = Debug|x86
+		{668D00DC-159D-4384-8C33-6F34B610C30A}.Debug|x86.Build.0 = Debug|x86
+		{668D00DC-159D-4384-8C33-6F34B610C30A}.Release|x86.ActiveCfg = Release|x86
+		{668D00DC-159D-4384-8C33-6F34B610C30A}.Release|x86.Build.0 = Release|x86
+		{3B5CFDD3-0F37-4810-9CC1-CB6092604906}.Debug|x86.ActiveCfg = Debug|x86
+		{3B5CFDD3-0F37-4810-9CC1-CB6092604906}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
